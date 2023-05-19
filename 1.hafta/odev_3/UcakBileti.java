@@ -77,7 +77,9 @@ public class UcakBileti {
                 default : System.out.println("You Entered Incorrectly");    
         
                 }
-            }    
+            }else { 
+                System.out.println("Incorrect Entry");
+        }    
         } 
        
     }
