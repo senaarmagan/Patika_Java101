@@ -24,10 +24,10 @@ public class MukemmelSayi {
             }    
         }
         if(num == sum){
-            System.out.println(num + " Mükemmel sayı.");
+            System.out.println(num + " it is a perfect number.");
         }
         else{
-            System.out.println(num + " Mükemmel sayı değildir.");
+            System.out.println(num + " it isn't a perfect number.");
         }    
     }
 }
